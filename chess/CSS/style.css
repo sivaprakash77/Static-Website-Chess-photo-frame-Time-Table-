@@ -1,0 +1,18 @@
+table,tr,td{
+    border:1px solid black; 
+    border-collapse: collapse;
+}
+td{
+    padding:35px;
+    background-color: rgb(0, 90, 0);
+}
+.white{
+    background-color: rgb(202, 181, 181);
+}
+table{
+    margin-left: 450px;
+    margin-top: 105px;
+}
+body{
+    background-image: url("/Assets/grass.jpg");
+}
